@@ -11,6 +11,10 @@ public class Program9 {
         System.out.println("Enter a number to check if whether a number is prime or not");
         number = sc.nextInt();
 
+        if(number > 1){
+
+            
+        }
         
 
     }
