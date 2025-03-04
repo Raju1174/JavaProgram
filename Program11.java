@@ -21,5 +21,7 @@ public class Program11 {
             n = sc.nextInt();
 
         }
+
+        sc.close();
     }
 }
